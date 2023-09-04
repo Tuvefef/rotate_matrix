@@ -7,7 +7,7 @@ float a_1;
 float mat_[2][2];
 int VAR = 2;
 
-#include "mat2.hpp"
+#include "mat2.h"
 
 int main(){
     std::cout << "matriz de rotacion" << std::endl;
